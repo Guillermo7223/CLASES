@@ -1,0 +1,18 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto_Inicial\Proyecto_Inicial\bin\Debug\Proyecto_Inicial.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto_Inicial\Proyecto_Inicial\bin\Debug\Proyecto_Inicial.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto_Inicial\Proyecto_Inicial\bin\Debug\Proyecto_Inicial.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.pdb
+C:\Users\Lab3\Desktop\Proyecto_Inicial\Proyecto_Inicial\bin\Debug\Proyecto_Inicial.exe.config
+C:\Users\Lab3\Desktop\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.exe
+C:\Users\Lab3\Desktop\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.pdb
+C:\Users\Lab3\Desktop\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.csprojResolveAssemblyReference.cache
+C:\Users\Lab3\Desktop\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.Form1.resources
+C:\Users\Lab3\Desktop\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.Properties.Resources.resources
+C:\Users\Lab3\Desktop\Proyecto_Inicial\Proyecto_Inicial\obj\Debug\Proyecto_Inicial.csproj.GenerateResource.Cache
+C:\Users\Lab3\Desktop\Proyecto_Inicial\Proyecto_Inicial\bin\Debug\Proyecto_Inicial.exe
+C:\Users\Lab3\Desktop\Proyecto_Inicial\Proyecto_Inicial\bin\Debug\Proyecto_Inicial.pdb
